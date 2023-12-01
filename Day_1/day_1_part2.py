@@ -23,7 +23,7 @@ def first_and_last(s):
     return digits[0], digits[-1]
 
 
-with open('/home/AdventofCode2023/Day_1/input.txt') as r:
+with open('../input.txt') as r:
     list = r.readlines()
     
 num = 0  
